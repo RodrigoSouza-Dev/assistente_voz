@@ -1,6 +1,6 @@
 Assistente de voz simples que pode receber comandos de voz do usuário e executar algumas ações com base nesses comandos.
 
-#Importação de bibliotecas: 
+# Importação de bibliotecas: 
 Em seguida, são importadas as bibliotecas necessárias para o funcionamento do assistente. Isso inclui:
 
 speech_recognition: Para reconhecimento de fala.
